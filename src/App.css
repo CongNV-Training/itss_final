@@ -1,3 +1,11 @@
 .listStudent {
   margin: 20px;
 }
+
+.listName {
+  display: flex;
+}
+
+.myButton {
+  margin: 20px auto;
+}
